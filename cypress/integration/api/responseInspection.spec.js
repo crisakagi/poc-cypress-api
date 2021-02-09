@@ -17,7 +17,9 @@ describe("Inspect the response data like caching and headers via POST method", f
     });
   });
 
-  it('Test should fail', () => {
+  //visualize test fail - dash cypress
+  //remove skip
+  it.skip('Test should fail', () => {
     postResponseHeaders(textFreeform()).then((response) => {
       expect(response.status).to.equal(401)
     });
