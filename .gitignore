@@ -1,0 +1,12 @@
+# package dependencies
+node_modules/
+package-lock.json
+
+# screenshots
+cypress/screenshots
+
+# video recordings
+cypress/videos
+
+#vscode
+.DS_Store

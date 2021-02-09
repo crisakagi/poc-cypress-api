@@ -1,0 +1,13 @@
+{
+  "baseUrl": "https://httpbin.org/",
+  "defaultCommandTimeout": 4000,
+  "execTimeout": 60000,
+  "taskTimeout": 60000,
+  "pageLoadTimeout": 60000,
+  "requestTimeout": 5000,
+  "responseTimeout": 30000,
+  "env": {
+    "apiResultsPath": "reports/api/api-results"
+  },
+  "projectId": "8q9zew"
+}
