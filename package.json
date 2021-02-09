@@ -11,6 +11,7 @@
   "main": "index.js",
   "scripts": {
     "cy:test": "cypress run",
+    "cy:record": "cypress run --record --key 82e57590-6740-484e-8aa5-30ce2a6518f3",
     "cy:open": "cypress open"
   },
   "author": "@crisakagi",
