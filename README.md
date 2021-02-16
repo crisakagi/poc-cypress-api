@@ -20,7 +20,7 @@ To run the tests, please ensure you have the following installed:
 - To run the tests on your terminal, run
 `$ npm run cy:test`
 - To run the tests against the Cypress Test Runner, run
-`$ npm run cypress open`
+`$ npm run cy:open`
 - To run the test with Cypress Dashboard, run
 `$ npm run cy:record`
 - Once the test runner has loaded, click on the spec file you wish to test.
