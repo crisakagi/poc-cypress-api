@@ -1,5 +1,5 @@
 # Cypress API test framework
-An example repo on how to use `Cypress` to run API integration tests against [httpbin] (https://httpbin.org/)
+An example repo on how to use `Cypress` to run API integration tests against [httpbin](https://httpbin.org/)
 
 ## Libraries and plugins used
 - [Cypress](https://www.cypress.io/)
